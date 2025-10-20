@@ -1,0 +1,9 @@
+{
+  "name": "com.ran-utils.ui",
+  "version": "1.0.0",
+  "displayName": "Ran Utils - UI",
+  "description": "A collection of UI utilities for Unity.",
+  "unity": "6000.2",
+  "unityRelease": "6f2",
+  "author": "khalishzhafran"
+}
